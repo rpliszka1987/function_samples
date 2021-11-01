@@ -1,0 +1,1 @@
+This is an example of the code that has different functions created inside of it. 
